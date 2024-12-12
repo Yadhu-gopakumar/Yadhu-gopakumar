@@ -20,7 +20,7 @@
       </a>
     </p>
   </div>
-  # 💻 Tech Stack:
+# 💻 Tech Stack:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; gap: 10px;">
 
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python">
