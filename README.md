@@ -1,21 +1,26 @@
-<div style='display:flex;align-items:center;justify-content:space-between;width:100%;'>
-<div style='width:60%;'>
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
 
-# 💫 About Me:
-- 👋 Hi, I'm **Yadhu Gopakumar**, a Passionate Django Fullstack Developer from India.
-- 🔭 I’m actively working on **Full Stack Development**.
-- 📫 How to reach me: yadhugopakumar128@gmail.com
+  <!-- Left Section -->
+  <div style="flex: 1; min-width: 300px; margin-right: 20px;">
+    
+  # 💫 About Me:
+  - 👋 Hi, I'm **Yadhu Gopakumar**, a Passionate Django Fullstack Developer from India.
+  - 🔭 I’m actively working on **Full Stack Development**.
+  - 📫 How to reach me: yadhugopakumar128@gmail.com
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/yadhu.gopakumar.9/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yadh_u____) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadhu-gopakumar-40a97520a/)
+  ## 🌐 Socials:
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/yadhu.gopakumar.9/) 
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yadh_u____) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadhu-gopakumar-40a97520a/)
+  </div>
+
+  <!-- Right Section -->
+  <div style="flex: 1; text-align: center; min-width: 300px;">
+    <img src="https://raw.githubusercontent.com/Yadhu-gopakumar/Myportfolio/177642d2761f0d1f4ab2cbd345bdec87f59de7ee/src/components/assets/hero.svg" alt="Hero Image" style="max-width: 100%; height: auto;">
+  </div>
 
 </div>
-<div>
- <img src="https://raw.githubusercontent.com/Yadhu-gopakumar/Myportfolio/177642d2761f0d1f4ab2cbd345bdec87f59de7ee/src/components/assets/hero.svg" alt="Hero Image" width="400">
-</div>
-</div>
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
