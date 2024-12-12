@@ -1,26 +1,37 @@
-<table style="border: none;">
-<tr>
-   
-<td style="width: 60%; vertical-align: top; border: none;">
-      
-# 💫 About Me:
-Hi 👋, I'm **Yadhu Gopakumar**, a Passionate Django Fullstack Developer from India.<br>
-      🔭 I’m actively working on **Full Stack Development**.<br>
-      📫 How to reach me: **yadhugopakumar128@gmail.com**<br>
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/yadhu.gopakumar.9/) 
-      [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yadh_u____) 
-      [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadhu-gopakumar-40a97520a/)
+<table style="border: none; width: 100%; display: flex; flex-wrap: wrap;">
 
-</td>
+  <tr style="width: 100%; display: flex; flex-direction: row; justify-content: space-between;">
 
-<td style="width: 40%; text-align: center; border: none;">
+<td style="flex: 1 1 60%; vertical-align: top; border: none; padding: 10px;">
+      <h2>💫 About Me:</h2>
+      <p>Hi 👋, I'm <strong>Yadhu Gopakumar</strong>, a Passionate Django Fullstack Developer from India.</p>
+      <p>🔭 I’m actively working on <strong>Full Stack Development</strong>.</p>
+      <p>📫 How to reach me: <strong>yadhugopakumar128@gmail.com</strong></p>
+
+<h3>🌐 Socials:</h3>
+      <p>
+        <a href="https://www.facebook.com/yadhu.gopakumar.9/">
+          <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
+        </a>
+        <a href="https://instagram.com/yadh_u____">
+          <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+        </a>
+        <a href="https://www.linkedin.com/in/yadhu-gopakumar-40a97520a/">
+          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+      </p>
+    </td>
+
+
+<td style="flex: 1 1 40%; text-align: center; border: none; padding: 10px;">
       <img src="https://raw.githubusercontent.com/Yadhu-gopakumar/Myportfolio/177642d2761f0d1f4ab2cbd345bdec87f59de7ee/src/components/assets/hero.svg" 
            alt="Hero Image" 
            style="max-width: 100%; height: auto;">
     </td>
   </tr>
+
 </table>
+
 
 
 ## 💻 GitHub Stats:
