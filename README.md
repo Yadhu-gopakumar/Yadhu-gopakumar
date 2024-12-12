@@ -1,7 +1,7 @@
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse; border: none;">
   <tr>
-    <!-- Left Section -->
-    <td style="width: 100%; padding: 10px; text-align: left; border: none;">
+    
+  <td style="width: 100%; padding: 10px; text-align: left; border: none;">
       <h1>💫 About Me:</h1>
       <p>
         Hi 👋, I'm <b>Yadhu Gopakumar</b>, a Passionate Django Fullstack Developer from India.<br>
@@ -9,11 +9,11 @@
         📫 How to reach me: <b>yadhugopakumar128@gmail.com</b>
       </p>
 
-<h2>🌐 Socials:</h2>
- <p>
-      [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/yadhu.gopakumar.9/) 
-        [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yadh_u____) 
-        [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadhu-gopakumar-40a97520a/)
+   <h2>🌐 Socials:</h2>
+    <p>
+    [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/yadhu.gopakumar.9/) 
+    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yadh_u____) 
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadhu-gopakumar-40a97520a/)
       </p>
     </td>
   </tr>
@@ -27,7 +27,6 @@
   </tr>
 </table>
 
----
 
 ## 💻 GitHub Stats:
 
