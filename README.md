@@ -1,5 +1,6 @@
-<div style='display:flex;align-items:center;justify-content:space-between;'>
-<div>
+<div style='display:flex;align-items:center;justify-content:space-between;width:100%;'>
+<div style='width:60%;'>
+ 
 # 💫 About Me:
 Hi 👋, I'm Yadhu Gopakumar<br>A Passionate Django Fullstack Developer From India<br>I’m actively working on Full Stack Development<br> How to reach me yadhugopakumar128@gmail.com<br>
 
