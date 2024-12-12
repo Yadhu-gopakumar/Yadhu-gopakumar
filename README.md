@@ -1,152 +1,82 @@
-<div align="center" id="top">
-  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
-
-  <a href="https://profile-readme-generator.com">Demo</a>
-</div>
-
-<div align="center">
-  <h1>Profile Readme Generator</h1>
-  <h3>The best profile readme generator you will find!</h3>
-</div>
-
-<p align="center">
-  <a href="https://github.com/maurodesouza/profile-readme-generator/fork" target="_blank">
-    <img src="https://img.shields.io/github/forks/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project forks"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project stars"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/maurodesouza/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/maurodesouza/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project issues"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project pull-requests"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
-    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
-  </a>
+  <h3 id="hi-there">Hi there 👋</h3>
+<h2 id="im-taban-soleymani">I’m Yadhu gopakumar</h2>
+<table style="width:100%;border:0;">
+  <tbody style="width:100%;border:0;"><tr style="width:100%;border:0;">
+    <td style="border:0;">
+      <h2> 💻 &nbsp;About Me </h2>
+       <ul>
+       <li>👑 &nbsp; Python django fullstack developer</li>
+        <li>📚 &nbsp;Currently pursuing MCA</li>
+       
+        <li>🤔 &nbsp; Ask me about Python . Django . Flask</li>
+       </ul>
+       <p align="center">
+         <br>
 </p>
+<p><img align="middle" src="https://github-readme-stats.vercel.app/api?username=Yadhu-gopakumar&amp;show_icons=true&amp;locale=en" alt="Yadhu-gopakumar"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yadhu-gopakumar&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="Yadhu-gopakumar"></p>
 
-
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
-</p>
-
-## :dart: About ##
-
-Are you tired of manually editing your GitHub profile or missing out on the amazing features you can add to it? 😩 Configuring GitHub actions can also be a hassle, right? Say no more! 💪
-
-**Introducing a tool that lets you beautify your GitHub profile with a customized README, easily and in no time!** ✨ You can include whatever content you want, wherever you want it (*within the limitations of markdown, of course*). 📝
-
-**With this amazing tool, creating your own README has never been so simple and fast.** ⚡ You can save time and focus on what really matters - showcasing your skills and projects. 🚀
-
-**Don't miss out on the opportunity to enhance your GitHub profile.** Give it a try and see for yourself how easy and convenient it is! 😉
-
-
-<p align="center">
-<i>Loved the tool? Please consider <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS">donating 💸</a> to support its continuous<br/> improvement and development!</i>
-</p>
-
-https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.mp4
-
-## :rocket: Main Technologies ##
-
-<a href="https://nextjs.org">
-  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://www.typescriptlang.org">
-  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://styled-components.com">
-  <img width="50" title="Styled Components" alt="Styled Components Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png">
-</a> &#xa0; &#xa0;
-
-<a href="https://jestjs.io">
-  <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/jest-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://eslint.org">
-  <img  width="50" title="Eslint" alt="Eslint Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</a> &#xa0; &#xa0;
-
-<a href="https://prettier.io">
-  <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png">
-</a>
-
-###
-
-<details>
-  <summary>See more</summary>
-
-  ###
-
-  * [Styled Icons (Feather Icons)](https://styled-icons.js.org)
-  * [Styled Media Query](https://github.com/morajabi/styled-media-query)
-  * [Framer Motion](https://framer.com/motion/)
-  * [HTML Prettify](https://github.com/Dmc0125/html-prettify)
-  * [React Share](https://github.com/nygardk/react-share)
-  * [Prismjs](https://prismjs.com)
-  * [UUID](https://www.npmjs.com/package/uuid)
-
-</details>
-
-## :white_check_mark: Requirements ##
-
-Before starting :checkered_flag:, make sure you have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed on your system. ([nvm](https://github.com/nvm-sh/nvm#node-version-manager---) recommended).
-
-## :checkered_flag: Starting ##
-
-```bash
-# Clone this project
-$ git clone https://github.com/maurodesouza/profile-readme-generator
-
-# Access
-$ cd profile-readme-generator
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn dev
-
-# The server will initialize in the <http://localhost:3000>
-```
-
-## :video_game: Scripts
-
-- `dev`: starts the application at `localhost:3000`;
-- `build`: creates an optimized production build of the application;
-- `start`: starts the application in production mode at localhost:3000 (make sure to run the build first);
-- `test`: runs the tests;
-- `lint`: runs eslint in the /src directory.
-
-## :memo: License ##
-
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a>
-
-&#xa0;
-
-<a href="#top">Back to top</a>
-
-*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*
+        
+    </td>
+    <td style="border:0;">
+     <p align="center">
+        <img height="360em" src="https://raw.githubusercontent.com/Yadhu-gopakumar/Myportfolio/refs/heads/main/src/components/assets/avatar1.png">
+     </p>
+    </td>
+  </tr>
+  <tr>
+   <td style="border:0;">
+     <h2> 🛠 &nbsp;Tech Stack</h2>
+     <img src="https://img.shields.io/badge/-C-05122A?style=flat&amp;logo=C">
+     <img src="https://img.shields.io/badge/-C++-05122A?style=flat&amp;logo=C%2B%2B">
+     <img src="https://img.shields.io/badge/-Java-05122A?style=flat&amp;logo=java">
+     <img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python">
+     <br>
+     <img src="https://img.shields.io/badge/-Django-05122A?style=flat&amp;logo=django">
+     <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&amp;logo=flask">
+     <br>
+     <img src="https://img.shields.io/badge/-R-05122A?style=flat&amp;logo=R&amp;logoColor=276DC3">
+ <img src="https://img.shields.io/badge/-jupyter-05122A?style=flat&amp;logo=jupyter">
+         <br>
+     <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5">
+     <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3">
+     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript">
+     <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&amp;logo=bootstrap">
+     <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&amp;logo=jquery">
+     <br>
+     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git">
+     <img src="https://img.shields.io/badge/-Github-05122A?style=flat&amp;logo=github">
+     <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&amp;logo=gitlab">
+     <br>
+     <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&amp;logo=mysql">
+     <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&amp;logo=sqlite">
+     <br>
+         <img src="https://img.shields.io/badge/-PyCharm-05122A?style=flat&amp;logo=pycharm">
+     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC">
+   </td>
+   <td style="border:0;">
+    <div align="center">
+      <h2><b>How to Reach Me</b></h2>
+      <br>
+      <p>Please don't hesitate to contact me 
+        <br>if you need further information or help.
+      </p>
+      <br>
+      <a href="https://www.instagram.com/yadh_u____/" target="_blank">
+      <img align="middle" alt="Yadhugopakumar| Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png">
+      </a> &nbsp;&nbsp;
+      <a href="yadhugopakumar128@gmail.com">
+      <img align="middle" alt="Yadhugopakumar  | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png">
+      </a> &nbsp;&nbsp;
+      <a href="https://www.facebook.com/yadhu.gopakumar.9/">
+      <img align="middle" alt="Yadhugopakumar| fb" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/facebook.png">
+      </a> &nbsp;&nbsp;
+      <a href="https://linkedin.com/in/yadhu-gopakumar-40a97520a">
+      <img align="middle" alt="Yadhugopakumar| LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png">
+      </a> &nbsp;&nbsp;
+      <br>
+    </div>
+   </td>
+  </tr>
+</tbody></table>
+<hr>
