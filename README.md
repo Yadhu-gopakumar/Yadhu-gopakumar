@@ -1,7 +1,7 @@
 <table>
 <tr>
    
-<td style="width: 60%; vertical-align: top;border:0;">
+<td style="width: 60%; vertical-align: top;border:none;">
       
 # 💫 About Me:
 Hi 👋, I'm **Yadhu Gopakumar**, a Passionate Django Fullstack Developer from India.<br>
@@ -14,7 +14,7 @@ Hi 👋, I'm **Yadhu Gopakumar**, a Passionate Django Fullstack Developer from I
 
 </td>
 
-<td style="width: 40%; text-align: center;border:0;">
+<td style="width: 40%; text-align: center;border:none;">
       <img src="https://raw.githubusercontent.com/Yadhu-gopakumar/Myportfolio/177642d2761f0d1f4ab2cbd345bdec87f59de7ee/src/components/assets/hero.svg" 
            alt="Hero Image" 
            style="max-width: 100%; height: auto;">
