@@ -15,7 +15,7 @@
   </div>
 
   <!-- Right Section -->
-  <div style="flex: 1; text-align: center; max-width: 300px;">
+  <div style="flex: 1; min-width: 300px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Yadhu-gopakumar/Myportfolio/177642d2761f0d1f4ab2cbd345bdec87f59de7ee/src/components/assets/hero.svg" alt="Hero Image" style="max-width: 100%; height: auto;">
   </div>
 
