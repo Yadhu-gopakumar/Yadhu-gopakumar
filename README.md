@@ -1,12 +1,12 @@
-  <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
 
   <!-- Left Section -->
-  <div style="flex: 1; min-width: 300px; margin-right: 20px;">
+  <div style="flex: 1; min-width: 300px; max-width: 60%;">
     
   # 💫 About Me:
-  - 👋 Hi, I'm **Yadhu Gopakumar**, a Passionate Django Fullstack Developer from India.
-  - 🔭 I’m actively working on **Full Stack Development**.
-  - 📫 How to reach me: yadhugopakumar128@gmail.com
+  Hi 👋, I'm **Yadhu Gopakumar**, a Passionate Django Fullstack Developer from India.<br>
+  🔭 I’m actively working on **Full Stack Development**.<br>
+  📫 How to reach me: **yadhugopakumar128@gmail.com**<br>
 
   ## 🌐 Socials:
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/yadhu.gopakumar.9/) 
@@ -15,8 +15,10 @@
   </div>
 
   <!-- Right Section -->
-  <div style="flex: 1; min-width: 300px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Yadhu-gopakumar/Myportfolio/177642d2761f0d1f4ab2cbd345bdec87f59de7ee/src/components/assets/hero.svg" alt="Hero Image" style="max-width: 100%; height: auto;">
+  <div style="flex: 1; min-width: 300px; max-width: 35%; text-align: center;">
+    <img src="https://raw.githubusercontent.com/Yadhu-gopakumar/Myportfolio/177642d2761f0d1f4ab2cbd345bdec87f59de7ee/src/components/assets/hero.svg" 
+         alt="Hero Image" 
+         style="max-width: 100%; height: auto;">
   </div>
 
 </div>
