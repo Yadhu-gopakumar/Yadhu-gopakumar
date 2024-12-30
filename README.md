@@ -21,7 +21,6 @@
     </p>
   </div>
 
-  <br>
 <h3>💻 Tech Stack:</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; gap: 10px;">
 
