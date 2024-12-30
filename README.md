@@ -20,11 +20,7 @@
       </a>
     </p>
   </div>
-  <div style="flex: 1 1 30%; text-align: center; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/Yadhu-gopakumar/Myportfolio/177642d2761f0d1f4ab2cbd345bdec87f59de7ee/src/components/assets/hero.svg" 
-         alt="Hero Image" 
-         style="max-width: 100%; height: auto;">
-  </div>
+
   <br>
 <h3>💻 Tech Stack:</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; gap: 10px;">
