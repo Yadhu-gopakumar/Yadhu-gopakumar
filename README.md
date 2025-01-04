@@ -19,6 +19,13 @@
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
     </p>
+   
+<p>
+<a href="https://www.facebook.com/yadhu.gopakumar.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-in-alt.svg" alt="yadhu gopakumar" height="30" width="40" /></a>
+<a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
+  
+</p>
   </div>
 
 <h3>💻 Tech Stack:</h3>
