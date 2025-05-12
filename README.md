@@ -9,7 +9,7 @@
     
 <h3>Resume</h3>
     <p>You can download my resume from the following link:</p>
-    <a href="https://github.com/Yadhu-gopakumar/Myportfolio/blob/main/src/components/assets/yadhu_gopakumar_resume.pdf" target="_blank">Resume</a>
+    <a href="https://drive.google.com/file/d/19qGotTAFtmGj50FzhEQ9qZXuWEPib5mv/view?usp=drive_link" target="_blank">Resume</a>
 
 <h3>🌐 Socials:</h3>
     <p>
