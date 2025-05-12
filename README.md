@@ -6,9 +6,10 @@
     <p>Hi 👋, I'm <strong>Yadhu Gopakumar</strong>, a Passionate Django Fullstack Developer from India.</p>
     <p>🔭 I’m actively working on <strong>Full Stack Development</strong>.</p>
     <p>📫 How to reach me: <strong>yadhugopakumar128@gmail.com</strong></p>
-## Resume
-You can download my resume from the following link:
-[Resume](https://link-to-your-resume.com](https://github.com/Yadhu-gopakumar/Myportfolio/blob/main/src/components/assets/yadhu_gopakumar_resume.pdf)
+    
+<h3>Resume</h3>
+    <p>You can download my resume from the following link:</p>
+    <a href="https://github.com/Yadhu-gopakumar/Myportfolio/blob/main/src/components/assets/yadhu_gopakumar_resume.pdf" target="_blank">Resume</a>
 
 <h3>🌐 Socials:</h3>
     <p>
