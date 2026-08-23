@@ -18,7 +18,7 @@
 
 ### `$ cat about.txt`
 
-Hi 👋, I'm **Yadhu Gopakumar**, a Passionate Django Fullstack Developer from India.
+Hi 👋, I'm **Yadhu Gopakumar**, a Passionate Developer from India.
 
 🔭 I'm actively working on **Full Stack Development**.
 
@@ -56,9 +56,9 @@ Hi 👋, I'm **Yadhu Gopakumar**, a Passionate Django Fullstack Developer from I
 ### `$ ./github_stats.sh`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yadhu-gopakumar&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" width="32%">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yadhu-gopakumar&theme=github-dark-blue&hide_border=true" width="32%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadhu-gopakumar&theme=github_dark_dimmed&hide_border=true&layout=compact" width="32%">
+
 </div>
 
 <div align="center">
