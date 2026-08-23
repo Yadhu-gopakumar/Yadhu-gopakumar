@@ -2,7 +2,7 @@
   <tr>
     <td width="35%" valign="top" align="center">
       <!-- LEFT COLUMN: Terminal Avatar -->
-      <img src="profile.png" alt="Terminal Avatar" width="100%">
+      <img src="./profile.png" alt="Terminal Avatar" width="100%">
                      
 </td>
     <td width="5%" valign="top">
