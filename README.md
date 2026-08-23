@@ -13,9 +13,6 @@ Hi 👋, I'm **Yadhu Gopakumar**, a Passionate Django Fullstack Developer from I
 
 📫 How to reach me: **yadhugopakumar128@gmail.com**
 
-### `$ cat resume.txt`
-
-[![Resume](https://img.shields.io/badge/Download-Resume-7CFC9E?style=for-the-badge&logo=readdotcv&logoColor=0b130e&labelColor=0b130e)](https://drive.google.com/file/d/19qGotTAFtmGj50FzhEQ9qZXuWEPib5mv/view?usp=drive_link)
 
 ### `$ ls socials/`
 
